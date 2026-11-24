@@ -1,1 +1,0 @@
-"""Display an image frame."""

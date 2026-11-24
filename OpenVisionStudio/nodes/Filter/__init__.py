@@ -1,1 +1,0 @@
-"""Configurable Filter node category."""

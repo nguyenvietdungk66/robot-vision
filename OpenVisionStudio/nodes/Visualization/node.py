@@ -1,1 +1,0 @@
-"""Visualization node interface."""

@@ -1,0 +1,1 @@
+"""Display image histogram information."""
